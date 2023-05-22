@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexxthunder
-- 👀 I’m interested in QA, Development, Footbal and Youngtimer Cars
-- 🌱 I’m currently learning QA Automation, Java, Python
+- 👀 I’m interested in Development (iOS, Java & Python), Hockey(NHL) and Youngtimer Cars
+- 🌱 I’m currently learning Swift, Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kitaevalexander94@yahoo.com
 
