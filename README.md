@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexxthunder
-- 👀 I’m interested in Development (iOS, Java & Python), Hockey(NHL) and Youngtimer Cars
-- 🌱 I’m currently learning Swift, Java, Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in DevOps, Hockey(NHL) and Youngtimer Cars
+- 🌱 I’m currently learning different technologies which can be usefull in DevOps
 - 📫 How to reach me kitaevalexander94@yahoo.com
 
 <!---
